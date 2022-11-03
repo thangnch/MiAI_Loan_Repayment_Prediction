@@ -1,7 +1,7 @@
 # MiAI_Loan_Repayment_Prediction
 Demo of Loan Repayment Prediction with XGBoost and Logistic Regression
 
-Video link:  https://youtu.be/1ZidAtKpAz0
+Video link:  https://youtu.be/Vh8F5nRL14U
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
